@@ -260,3 +260,26 @@ footer {
     position: relative;
     width: 60%;
 }
+
+/* ----------------------------------------Grid test */
+
+.bg-color-green{
+    background-color: green;
+    color:white;
+}
+.bg-color-red{
+    background-color: #f00;
+    color:white;
+}
+.bg-color-blue{
+    background-color: blue;
+    color:white;
+
+}
+.bg-color-grey{
+    background-color:#777;
+    color:#000
+
+}
+    
+
